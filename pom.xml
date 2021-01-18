@@ -7,7 +7,6 @@
 	<artifactId>BackTecnica</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
 	<name>BackTecnica</name>
 	<url>http://maven.apache.org</url>
 
@@ -53,9 +52,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>SpringBoot-Tecnica</finalName>
-			
-		</plugins>
+		<finalName>BackTecnica</finalName>
 	</build>
 
 	<dependencies>
